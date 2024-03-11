@@ -1,0 +1,222 @@
+body {
+    height: 100%;
+}
+
+main {}
+
+
+
+.welc {
+
+    text-align: center;
+    margin-inline: 40px;
+
+}
+
+
+.welc h1 {
+
+
+
+    margin-inline: 20px;
+    margin-top: 200px;
+    margin-bottom: 20px;
+    line-height: 1.2;
+    font-size: 4vw;
+}
+
+.img-cont {
+
+    width: 100%;
+    height: auto;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.img {
+
+    width: 100%;
+    position: relative;
+
+}
+
+.img img {
+
+    width: 100%;
+    display: block;
+}
+
+.desc {
+
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.6);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    opacity: 0;
+    transition: 0.6s;
+
+}
+
+.desc:hover {
+    opacity: 1;
+}
+
+.desc h1 {
+    color: rgb(255, 255, 14);
+    font-size: 70px;
+    text-align: center;
+    
+}
+
+.desc p {
+    color: white;
+    text-align: center;
+    width: 70%;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+.cont {
+
+    width: 100%;
+    background-color: rgb(0, 0, 0, 0.6);
+    transition: 0.6s;
+
+}
+
+
+
+.mv {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline: 40px;
+}
+
+.card {
+    background-color: #006828;
+    width: 49%;
+    height: 450px;
+    margin: 50px 0;
+    border-radius: 20px;
+    
+}
+
+.card p {
+
+    color: white;
+    margin: 20px 30px;
+    line-height: 1.8;
+    font-size: 1.5vw;
+    text-align: justify;
+}
+
+.card h1{
+    color: rgb(255, 255, 14);
+    text-align: center;
+    font-size: 3vw;
+    margin: 20px;
+    
+}
+
+.mobile {
+    display: none;
+}
+
+.mob {
+    display: none;
+}
+
+
+@media screen and (max-width: 900px) {
+
+    
+
+    .card {
+
+        width: 100%;
+        justify-content: center;
+        margin: 30px 0;
+
+        height: auto;
+    }
+
+    .card h1 {
+
+        font-size: 8vw;
+    }
+
+    .card p {
+
+        font-size: 4vw;
+        text-align: justify;
+    }
+
+    .mobile {
+        display: block;
+        margin-block: 8px;
+        font-size: 8vw;
+    }
+
+    .desc h1 {
+
+        display: none;
+    }
+
+    .desc p {
+
+        display: none;
+    }
+
+    .mob {
+
+        display: block;
+        color: rgb(255, 255, 14);
+        font-size: 30px;
+        text-align: center;
+    }
+
+    
+
+
+
+
+
+  
+
+
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
