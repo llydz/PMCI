@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+                                                                                                                            <!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -21,27 +21,19 @@
 
         <div class="img-cont">
             <div class="img">
-                <img src="./styles/images/IMG.png" alt="">
+                <img src="./styles/images/school2.png" alt="">
 
                 <div class="desc">
 
                     <h1>PMCI</h1>
-                    <P>Philippine Malabon Cultural Institute was established on February 06, 1958, by a consortium of
-                        civic-minded Chinese-Filipino businessmen in Malabon, the Philippine Malabon Chinese School,
-                        under the leadership of Mr. Co San, initially provided a comprehensive Elementary Course.
-                        Generous contributions from Mr. Ke Eng Chay and Mr. Lim Gui Lui facilitated the construction of
-                        a Kindergarten building on March 10, 1961, thereby expanding educational opportunities.
-                        Subsequently, Mr. Lim Se Keng's funding enabled the extension of the main building,
-                        accommodating over 800 students by May 10, 1964.
-                        In 1973, the institution underwent reconstitution and was rechristened the Philippine Malabon
-                        Cultural Institute, aligning itself with prevailing national directives. Over ensuing decades,
-                        visionary leaders such as Mr. Samuel Malapas and Mr. Charlie Ang spearheaded expansions,
-                        including the establishment of an auditorium and a high school department. Continuing this
-                        illustrious tradition, the current Chairman, Mr. Jason Choa, initiated groundbreaking for a new
-                        school edifice on March 16, 2021.
-                        PMCI remains steadfast in its dedication to instilling values of excellence and fostering
-                        bilingual proficiency among its students, drawing from a wealth of experience spanning over 60
-                        years of educational endeavors.</P>
+                    <P>The Philippine Malabon Cultural Institute, founded in 1958 by civic-minded Chinese-Filipino
+                        businessmen, initially provided elementary education under Mr. Co San's leadership. Generous
+                        contributions led to expansions, including a kindergarten building in 1961 and extension of the
+                        main building in 1964, accommodating over 800 students. Reconstituted in 1973 as PMCI, it
+                        aligned with national directives. Visionary leaders like Mr. Malapas and Mr. Ang oversaw further
+                        expansions, including an auditorium and high school department. Chairman Mr. Jason Choa
+                        initiated a new school building in 2021, continuing PMCI's 60-year commitment to excellence and
+                        bilingual proficiency.</P>
 
                     <div class="mob">PHILIPPINE MALABON CULTURAL INSTITUTE</div>
                 </div>
