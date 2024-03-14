@@ -47,7 +47,7 @@
     font-size: 30px;
 }
 
-p {
+.intro p {
     margin-inline: 10px;
     font-size: 20px;
     display: none;

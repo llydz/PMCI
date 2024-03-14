@@ -24,7 +24,7 @@
     width: 100%;
     height: auto;
 
-    border-radius:  15px 15px 0 0;
+    border-radius:  10px 10px 0 0;
     
   }
   
@@ -38,7 +38,7 @@
     color: #f0f0f0;
     transition: .4s;
 
-    border-radius: 0 0 15px 15px;
+    border-radius: 0 0 10px 10px;
     
   }
   .card h1{
@@ -46,7 +46,7 @@
     font-size: 40px;
     color: #f0c033;
   }
-  p{
+  .intro p{
     margin: 10px;
     font-size: 20px;
     visibility: hidden;

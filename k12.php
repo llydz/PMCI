@@ -21,7 +21,30 @@
 
             
                 <div class="card">
-                    <img src="./styles/images/map.png">
+                    <img src="./styles/images/k12/k.jpg">
+                    <div class="intro">
+                        <h1>Kinder</h1>
+                        <p>paragraph about kinder</p>
+                    </div>
+                </div>
+            
+                <div class="card">
+                    <img src="./styles/images/k12/g1.jpg">
+                    <div class="intro">
+                        <h1>Grade 1</h1>
+                        <p>paragraph about kinder</p>
+                    </div>
+                </div>
+            
+                <div class="card">
+                    <img src="./styles/images/k12/g2.jpg">
+                    <div class="intro">
+                        <h1>Grade 2</h1>
+                        <p>paragraph about kinder</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <img src="./styles/images/k12/g3.jpg">
                     <div class="intro">
                         <h1>Kinder</h1>
                         <p>paragraph about kinder</p>
@@ -43,76 +66,9 @@
                         <p>paragraph about kinder</p>
                     </div>
                 </div>
-                <div class="card">
-                    <img src="./styles/images/map.png">
-                    <div class="intro">
-                        <h1>Kinder</h1>
-                        <p>paragraph about kinder</p>
-                    </div>
-                </div>
+              
             
-                <div class="card">
-                    <img src="./styles/images/map.png">
-                    <div class="intro">
-                        <h1>Grade 1</h1>
-                        <p>paragraph about kinder</p>
-                    </div>
-                </div>
-            
-                <div class="card">
-                    <img src="./styles/images/map.png">
-                    <div class="intro">
-                        <h1>Grade 2</h1>
-                        <p>paragraph about kinder</p>
-                    </div>
-                </div>
-                <div class="card">
-                    <img src="./styles/images/map.png">
-                    <div class="intro">
-                        <h1>Kinder</h1>
-                        <p>paragraph about kinder</p>
-                    </div>
-                </div>
-            
-                <div class="card">
-                    <img src="./styles/images/map.png">
-                    <div class="intro">
-                        <h1>Grade 1</h1>
-                        <p>paragraph about kinder</p>
-                    </div>
-                </div>
-            
-                <div class="card">
-                    <img src="./styles/images/map.png">
-                    <div class="intro">
-                        <h1>Grade 2</h1>
-                        <p>paragraph about kinder</p>
-                    </div>
-                </div>
-                <div class="card">
-                    <img src="./styles/images/map.png">
-                    <div class="intro">
-                        <h1>Kinder</h1>
-                        <p>paragraph about kinder</p>
-                    </div>
-                </div>
-            
-                <div class="card">
-                    <img src="./styles/images/map.png">
-                    <div class="intro">
-                        <h1>Grade 1</h1>
-                        <p>paragraph about kinder</p>
-                    </div>
-                </div>
-            
-                <div class="card">
-                    <img src="./styles/images/map.png">
-                    <div class="intro">
-                        <h1>Grade 2</h1>
-                        <p>paragraph about kinder</p>
-                    </div>
-                </div>
-            
+               
 
             
 

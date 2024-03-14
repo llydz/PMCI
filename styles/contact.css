@@ -33,7 +33,7 @@ main {}
 
 .map img {
 
-    border: 2px solid black;
+    width: 50%;
 }
 
 .link {
@@ -53,7 +53,7 @@ main {}
 
 .card {
 
-    width: 25%;
+    width: 40%;
     background-color: #999999;
     padding: 10px;
     border-radius: 10px;
@@ -94,4 +94,63 @@ main {}
 .data {
 
     padding: 60px;
+}
+
+@media screen and (max-width: 1000px) {
+
+    .card, .socials {
+
+        width: 60%;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+
+    .card, .socials {
+
+        font-size: 10px;
+    }
+
+    .card, .socials {
+
+        text-align: center;
+    }
+
+    .data {
+
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 500px) {
+
+    .map {
+
+        width: 100%;
+    }
+
+    .map img {
+
+        width: 100%;
+    }
+
+    .link {
+
+        font-size: 15px;
+    }
+
+    .heading h1 {
+
+        font-size: 20px;
+    }
+
+    .heading p {
+
+        font-size: 15px;
+    }
+
+    .heading {
+
+        padding-inline: 10px;
+    }
 }
