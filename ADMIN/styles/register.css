@@ -15,7 +15,7 @@ input[type=email] {
     padding: 12px 20px;
     margin: 8px 0;
     display: inline-block;
-    border: 1px solid #ccc;
+    border: 1px solid #bbbbbb;
     box-sizing: border-box;
     border-radius: 10px;
 }
@@ -33,7 +33,7 @@ input[type=email] {
 .form-container {
 
     margin: 100px;
-    width: 800PX;
+    width: 60%;
     background-color: #006828;
    
     border-radius: 15px;
@@ -57,7 +57,7 @@ input[type=email] {
     background-color: #fff;
     border-radius: 15px 0 0 15px;
     padding: 10px;
-    width: 50%;
+    width: 60%;
     
 
 
@@ -126,7 +126,7 @@ input[type=email] {
 
 .img {
 
-    width: 50%;
+    width: 40%;
     
     
     
@@ -148,6 +148,37 @@ input[type=email] {
     background-color: #009137;
     color: white;
 }
+
+.admin {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+
+.user, .pass {
+
+    width: 49%;
+
+}
+
+
+.password {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+
+.pass1, .pass2 {
+
+    width: 49%;
+
+}
+
+
 
 
 @media screen and (max-width: 930px) { 
