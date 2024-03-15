@@ -1,4 +1,4 @@
-                                                                                                                            <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -47,17 +47,54 @@
 
         <div class="mv">
             <div class="card">
-                <h1>MISSION</h1>
-                <p>PMCI is committed to provide affordable education that emphasizes excellence in character, academic,
-                    and social interactions.</p>
+                <img src="./styles/images/mission.png" alt="PMCI">
+                <div class="det">
+                    <h1>MISSION</h1>
+                    <p>PMCI is committed to provide affordable education that emphasizes excellence in character,
+                        academic,
+                        and social interactions.</p>
+                </div>
             </div>
 
             <div class="card">
-                <h1>VISION</H1>
-                <p>PMCI is a Filipino Chinese learning community that nurtures the full potential of students to become
-                    responsible citizens and future leaders and that celebrates and promotes the integration of Eastern
-                    and Western cultures.</p>
+
+                <img src="./styles/images/vision.jpg" alt="PMCI">
+                <div class="det">
+                    <h1>VISION</H1>
+                    <p>PMCI is a Filipino Chinese learning community that nurtures the full potential of students to
+                        become
+                        responsible citizens and future leaders and that celebrates and promotes the integration of
+                        Eastern
+                        and Western cultures.</p>
+                </div>
             </div>
+        </div>
+        <h1 class="core-values">
+            PMCI CORE VALUES
+        </h1>
+        <div class="core">
+
+            <div class="pmci">
+                <img src="./styles/images/PMCI/p.png" alt="P" class="pmci-img">
+                <h3>PERSEVERANCE</h3>
+            </div>
+
+            <div class="pmci">
+                <img src="./styles/images/PMCI/m.png" alt="M" class="pmci-img">
+                <H3>MORAL-INTEGRITY</H3>
+            </div>
+
+            <div class="pmci">
+                <img src="./styles/images/PMCI/c.png" alt="C" class="pmci-img">
+                <H3>COMPETITIVE</H3>
+            </div>
+
+            <div class="pmci">
+                <img src="./styles/images/PMCI/i.png" alt="I" class="pmci-img">
+                <H3>INCLUSIVENESS</H3>
+            </div>
+
+
         </div>
 
     </main>

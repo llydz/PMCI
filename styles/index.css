@@ -104,16 +104,16 @@ main {}
 
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
+    justify-content: space-evenly;
+    
     padding-inline: 40px;
 }
 
 .card {
     background-color: #006828;
      
-    width: 49%;
-    height: 450px;
+    width: 40%;
+    min-height: 270px;
     margin: 50px 0;
     border-radius: 20px;
 
@@ -128,15 +128,15 @@ main {}
     color: white;
     margin: 20px 30px;
     line-height: 1.8;
-    font-size: 1.5vw;
+    font-size: 1vw;
     text-align: justify;
 }
 
 .card h1{
     color: rgb(255, 255, 14);
     text-align: center;
-    font-size: 3vw;
-    margin: 20px;
+    font-size: 2.5vw;
+    margin: 5px 20px;
     
 }
 
@@ -147,6 +147,62 @@ main {}
 .mob {
     display: none;
 }
+
+.core {
+
+    margin-inline: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 50px;
+
+    
+
+}
+
+.pmci {
+
+    width: 20%;
+    background-color: #dadada;
+    color: #006828;
+    text-align: center;
+    border-radius: 10px;
+    padding-inline: 20px;
+    padding-bottom: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.pmci img {
+
+    width: 100%;
+    height: auto;
+}
+
+
+
+
+.card img {
+
+    width: 100%;
+    height: auto;
+    border-radius: 20px 20px 0 0;
+
+    
+}
+
+.core-values {
+
+    margin-inline: 40px;
+    text-align: center;
+    font-size: 3vw;
+    margin-bottom: 20px;
+    
+    
+}
+
+
 
 @media screen and (max-width: 1266px) {
 
@@ -162,13 +218,31 @@ main {}
     
 }
 
+@media screen and (max-width: 1111px) {
+
+    .pmci {
+
+        width: 38%;
+        margin-bottom: 30px;
+    }
+
+    .core {
+
+        justify-content: space-evenly;
+    }
+    }
+
+
 @media screen and (max-width: 900px) {
 
-    
+    .mv {
+
+        justify-content: center; }
+        
 
     .card {
 
-        width: 100%;
+        width: 70%;
         justify-content: center;
         margin: 30px 0;
 
@@ -177,12 +251,12 @@ main {}
 
     .card h1 {
 
-        font-size: 8vw;
+        font-size: 5vw;
     }
 
     .card p {
 
-        font-size: 4vw;
+        font-size: 2vw;
         text-align: justify;
     }
 
@@ -215,9 +289,38 @@ main {}
 
 @media screen and (max-width: 500px) {
 
+   .pmci {
+    width: 20%;
+   }
+    .card {
+
+        width: 90%;
+    
+        margin: 30px 0;
+
+        height: auto;
+    }
+
+
     .welc h3 {
 
         font-size: 6vw;
+    }
+
+    .core {
+
+        justify-content: center;
+    }
+
+    .pmci {
+
+        width: 50%;
+        margin-block: 10px;
+    }
+
+    .pmci h3 {
+
+        font-size: 20px;
     }
 }
 
