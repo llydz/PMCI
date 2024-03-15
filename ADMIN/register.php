@@ -26,7 +26,7 @@
                 <div class="tooltip">
                     <i class="fa fa-info-circle"></i>
                     <span class="tooltiptext">To ensure that the registration is organization only</span>
-                    <span style="color: red; font-size:13px">&nbsp&nbsp*required</span>
+                    
                 </div>
                 <div class="admin">
 

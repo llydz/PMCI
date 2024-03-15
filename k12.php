@@ -19,58 +19,60 @@
         <div class="card-container">
 
 
-            
-                <div class="card">
-                    <img src="./styles/images/k12/k.jpg">
-                    <div class="intro">
-                        <h1>Kinder</h1>
-                        <p>paragraph about kinder</p>
-                    </div>
-                </div>
-            
-                <div class="card">
-                    <img src="./styles/images/k12/g1.jpg">
-                    <div class="intro">
-                        <h1>Grade 1</h1>
-                        <p>paragraph about kinder</p>
-                    </div>
-                </div>
-            
-                <div class="card">
-                    <img src="./styles/images/k12/g2.jpg">
-                    <div class="intro">
-                        <h1>Grade 2</h1>
-                        <p>paragraph about kinder</p>
-                    </div>
-                </div>
-                <div class="card">
-                    <img src="./styles/images/k12/g3.jpg">
-                    <div class="intro">
-                        <h1>Kinder</h1>
-                        <p>paragraph about kinder</p>
-                    </div>
-                </div>
-            
-                <div class="card">
-                    <img src="./styles/images/map.png">
-                    <div class="intro">
-                        <h1>Grade 1</h1>
-                        <p>paragraph about kinder</p>
-                    </div>
-                </div>
-            
-                <div class="card">
-                    <img src="./styles/images/map.png">
-                    <div class="intro">
-                        <h1>Grade 2</h1>
-                        <p>paragraph about kinder</p>
-                    </div>
-                </div>
-              
-            
-               
 
-            
+            <div class="card">
+                <img src="./styles/images/k12/k.jpg">
+                <div class="intro">
+                    <h1>Kinder</h1>
+                    <p>This stage is filled with excitement and fun. Kids learn the basics like letters, numbers, and
+                        colors. They also start to understand the concept of sharing and making friends. It's a time of
+                        discovery and exploration.r</p>
+                </div>
+            </div>
+
+            <div class="card">
+                <img src="./styles/images/k12/g1.jpg">
+                <div class="intro">
+                    <h1>Grade 1</h1>
+                    <p>paragraph about kinder</p>
+                </div>
+            </div>
+
+            <div class="card">
+                <img src="./styles/images/k12/g2.jpg">
+                <div class="intro">
+                    <h1>Grade 2</h1>
+                    <p>paragraph about kinder</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="./styles/images/k12/g3.jpg">
+                <div class="intro">
+                    <h1>Kinder</h1>
+                    <p>paragraph about kinder</p>
+                </div>
+            </div>
+
+            <div class="card">
+                <img src="./styles/images/map.png">
+                <div class="intro">
+                    <h1>Grade 1</h1>
+                    <p>paragraph about kinder</p>
+                </div>
+            </div>
+
+            <div class="card">
+                <img src="./styles/images/map.png">
+                <div class="intro">
+                    <h1>Grade 2</h1>
+                    <p>paragraph about kinder</p>
+                </div>
+            </div>
+
+
+
+
+
 
 
         </div>

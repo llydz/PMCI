@@ -16,7 +16,7 @@
         <div class="title">
             <h1>POLICIES</h1>
         </div>
-        <div class="card-container">
+        <!--  <div class="card-container">
             <div>
                 <div class="card">
                     <img src="images/background.png">
@@ -75,9 +75,62 @@
                         <p>paragraph about kinder</p>
                     </div>
                 </div>
-            </div>
-        </div>
+          </div>  </div> -->
 
+         
+            <div class="card-container">
+
+                    <div class="card">
+                        <img src="" alt="img">
+                        <div class="details">
+                            <h1>Mathematics</h1>
+                            <p>description</p>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <img src="" alt="img">
+                        <div class="details">
+                            <h1>COMMUNICATION ARTS: English and Filipino</h1>
+                            <p>description</p>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <img src="" alt="img">
+                        <div class="details">
+                            <h1>Science</h1>
+                            <p>description</p>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <img src="" alt="img">
+                        <div class="details">
+                            <h1>Araling Panlipunan</h1>
+                            <p>description</p>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <img src="" alt="img">
+                        <div class="details">
+                            <h1>Values Education</h1>
+                            <p>description</p>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <img src="" alt="img">
+                        <div class="details">
+                            <h1>Technology & Home Economics</h1>
+                            <p>description</p>
+                        </div>
+                    </div>
+
+
+
+            </div>
 
 
     </main>
